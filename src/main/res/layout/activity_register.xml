@@ -240,8 +240,8 @@
                     android:orientation="horizontal">
 
                     <EditText
-                        android:layout_width="270dp"
-                        android:layout_height="40dp"
+                        android:layout_width="375dp"
+                        android:layout_height="match_parent"
                         android:background="@android:color/transparent"
                         android:hint="@string/loc"
                         android:importantForAutofill="no"
@@ -285,7 +285,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="57dp"
                 android:layout_marginLeft="20dp"
-                android:layout_marginTop="5dp"
+                android:layout_marginTop="20dp"
                 android:layout_marginRight="20dp"
                 android:background="@drawable/button_custom2"
                 android:text="@string/re"

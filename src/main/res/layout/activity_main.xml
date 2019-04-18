@@ -8,12 +8,11 @@
     tools:context=".MainActivity">
 
 
-
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="257dp"
-        android:layout_height="167dp"
-        android:layout_marginTop="30dp"
+        android:layout_height="129dp"
+        android:layout_marginTop="170dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
